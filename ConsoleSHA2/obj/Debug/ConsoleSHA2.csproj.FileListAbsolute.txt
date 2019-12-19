@@ -1,0 +1,6 @@
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\bin\Debug\ConsoleSHA2.exe.config
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\bin\Debug\ConsoleSHA2.exe
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\bin\Debug\ConsoleSHA2.pdb
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\obj\Debug\ConsoleSHA2.csprojAssemblyReference.cache
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\obj\Debug\ConsoleSHA2.exe
+C:\Users\StaticVoidSA\source\repos\ConsoleSHA2\ConsoleSHA2\obj\Debug\ConsoleSHA2.pdb
